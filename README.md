@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrabeshTimilsina
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning MERN stack for web applications
+- 🌱 I’m currently learning ELT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Prabesh Timilsina on LinkedIn
 
