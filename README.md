@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrabeshTimilsina
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning ELT
+- 👀 I’m interested in CPS Security
+- 🌱 I’m currently Modeling energy system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Prabesh Timilsina on LinkedIn
 
